@@ -12,17 +12,23 @@ You are going to rebuild our [www.choco-up.com](https://www.choco-up.com) **home
 - Single language only
 - Responsive is important!
 
+## API exercises
+In order to test your API skill, for the `testimonial` part from the layout, please use the following sample API to get the content:
+- https://testimonialapi.toolcarton.com/api
+- Please show at least `6` testimonial content from the api
+- You can design the layout yourself
+
 ## How you will be scored
-- frameworks/libraries/plugins choices and use it right
-- git workflow
-- code quality 
-- folder structure, e.g.
-	- organize components, contents
-- documentation in `README.md`, e.g.
-	- packages/library you used
-	- development guidelines
-	- assumptions or thoughts
-	- folder structure
+- Frameworks/libraries/plugins choices and use it right
+- Git workflow
+- Code quality 
+- Folder structure, e.g.
+	- Organize components, contents
+- Documentation in `README.md`, e.g.
+	- Packages/library you used
+	- Development guidelines
+	- Assumptions or thoughts
+	- Folder structure
 	- ...(as much as you can think of)
 
 ## Tips
