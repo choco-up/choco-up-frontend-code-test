@@ -1,7 +1,7 @@
 # Choco Up Frontend Code Test
 
 ## Background
-You are going to rebuild our [www.choco-up.com](https://www.choco-up.com) **home page** with your own code. You don't need to finish the whole page, just to complete the 6 parts is fine (see the `layout.png` in red outline).
+You are going to rebuild our [www.choco-up.com](https://www.choco-up.com) **home page** with your own code. You don't need to finish the whole page, just to complete the 5 parts is fine (see the `layout.png` in red outline).
 
 ## Guidelines
 - Build with `React.js` or related framework (e.g. `Next.js`, `Vitejs` etc.)
@@ -13,10 +13,10 @@ You are going to rebuild our [www.choco-up.com](https://www.choco-up.com) **home
 - Responsive is important!
 
 ## API exercises
-In order to test your API skill, for the `testimonial` part from the layout, please use the following sample API to get the content:
-- https://testimonialapi.toolcarton.com/api
+In order to test your API skill, for the `testimonial` part from the layout, please use the following dummyJSON API to get the user:
+- https://dummyjson.com/docs/users
 - Please show at least `6` testimonial content from the api
-- You can design the layout yourself
+- For the quote text please use dummyJSON user's address; For the job title please use dummyJSON user's email
 
 ## How you will be scored
 - Frameworks/libraries/plugins choices and use it right
